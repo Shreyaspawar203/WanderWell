@@ -1,6 +1,4 @@
 WanderWell: Your All-in-One Trip Planning Assistant
-!<img width="1123" height="643" alt="image" src="https://github.com/user-attachments/assets/8d887bf4-88aa-4ba3-9236-bf6c47c4d9c2" />
-
 
 📝 Overview
 "WanderWell" is a dynamic and interactive web application designed to simplify the initial stages of trip planning. It provides a clean, centralized interface where users can research destinations, view stunning photos, check the weather, and convert currency, all in one place.
